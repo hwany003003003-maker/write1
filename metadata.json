@@ -1,0 +1,5 @@
+{
+  "description": "AI 기반 오늘의 영단어 추천 및 10단계 예문 학습 어플리케이션 (오늘의 단어장)",
+  "requestFramePermissions": [],
+  "name": "todayword"
+}
